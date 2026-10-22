@@ -32,7 +32,6 @@ Se implementó un sistema de comunicación mediante eventos en el que una colisi
 Las esferas rojas se dirigen hacia una esfera verde elegida previamente, mientras que las verdes se desplazan hacia el cilindro. De esta forma, se trabaja con detección de colisiones, etiquetas, suscripción a eventos y comportamientos diferenciados según el tipo de objeto.
 
 <img width="1917" height="1029" alt="Ej1" src="https://github.com/user-attachments/assets/a7e61d05-504f-4a44-90ca-21b6cbd48a5d" />
-<img width="1918" height="1018" alt="Ej2" src="https://github.com/user-attachments/assets/f1fdc293-9e5b-48e8-b503-b17919bdcb47" />
 
 # Ejercicio 2/3: Humanoides y reacciones mediante eventos
 
